@@ -10,4 +10,4 @@ Table of Contents
 
 ![Screenshot of working project](assets/images/refactoring-for-accessability-screenshot.jpg)
 
-author information (myself, weber author information) Tony Rivas; Reset.css was designed by MeyerWeb (Erica A. and Kathryn S. Meyer)
+Authored by Tony Rivas; Reset.css was designed by MeyerWeb (Erica A. and Kathryn S. Meyer)
